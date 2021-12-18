@@ -1,6 +1,8 @@
-Chip 8 Emulator created by Reallnas around 2019.
+Small Chip 8 Emulator created by Reallnas around 2019.
 
-The code works but the Qt project needs to be set up properly to launch the application.
+The code works (or at least worked) but the Qt project needs to be set up properly to launch the application.
+This only goal of this project was to apply the concepts of C++ that I just learned before. 
+Don't expect professional quality of code.
 
 Based on the guides:
 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
