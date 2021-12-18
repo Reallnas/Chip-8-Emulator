@@ -1,7 +1,7 @@
 Small Chip 8 Emulator created by Reallnas around 2019.
 
 The code works (or at least worked) but the Qt project needs to be set up properly to launch the application.
-The only goals of this project was to apply the concepts of C++ that I just learned before and to learn how a set of instruction works.
+The only goals of this project were to apply the concepts of C++ that I just learned before and to learn how a set of instruction works.
 Don't expect professional quality of code.
 
 Based on the guides:
