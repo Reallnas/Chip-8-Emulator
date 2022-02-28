@@ -1,2 +1,4 @@
 rom/
+.idea/
+cmake-build-debug/
 
