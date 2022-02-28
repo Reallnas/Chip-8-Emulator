@@ -34,7 +34,7 @@ MainWindow::~MainWindow() = default;
 
 void MainWindow::chooseFile()
 {
-    const std::string file_name = QFileDialog::getOpenFileName(this, "Ouvrir un fichier", QString(), "C8 Rom (*.c8;*.ch8)").toStdString();
+    const std::string file_name = QFileDialog::getOpenFileName(this, "Ouvrir un fichier", QString(), "C8 Rom (*.c8 *.ch8);;All files (*.*)").toStdString();
 
     if(!file_name.empty())
     {
